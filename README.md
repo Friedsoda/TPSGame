@@ -1,5 +1,5 @@
 # UE_Assignment
-Unreal v4.25.3
+
 <br/>
 
 ### Homework 1
@@ -11,5 +11,7 @@ Unreal v4.25.3
 TPS游戏 
 打靶得分 + 多玩家游戏
 
+<br/>
+<br/>
 
-apk包和演示视频：[]()
+apk包和演示视频：[https://pan.baidu.com/s/1OjqbEkp32lS4dSMCRwES6g](https://pan.baidu.com/s/1OjqbEkp32lS4dSMCRwES6g)  密码: lp6f
