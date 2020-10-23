@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6EFFD0AD-4FE2-81F7-95AF-C88CF94290AD}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Assignment",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
