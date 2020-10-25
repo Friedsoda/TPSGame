@@ -1,17 +1,24 @@
 # UE_Assignment
 
-<br/>
 
 ### Homework 1
 编译+打包
 
 <br/>
 
+
+apk包和演示视频：[https://pan.baidu.com/s/1sSGRHt1I3VsY2bFr2DAaxQ](https://pan.baidu.com/s/1sSGRHt1I3VsY2bFr2DAaxQ)  密码: 78bn
+
+<br/>
+
 ### Homework 2
-TPS游戏 
-打靶得分 + 多玩家游戏
+TPS游戏 打靶得分
+多人对战功能待补充
 
 <br/>
+
+apk包和演示视频：[https://pan.baidu.com/s/1fPX9xvLKJ9k_hphsKQTp9Q](https://pan.baidu.com/s/1fPX9xvLKJ9k_hphsKQTp9Q)  密码: 19w9
+
+
 <br/>
 
-apk包和演示视频：[https://pan.baidu.com/s/1OjqbEkp32lS4dSMCRwES6g](https://pan.baidu.com/s/1OjqbEkp32lS4dSMCRwES6g)  密码: lp6f
