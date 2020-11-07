@@ -19,6 +19,14 @@ TPS游戏 打靶得分
 
 apk包和演示视频：[https://pan.baidu.com/s/1fPX9xvLKJ9k_hphsKQTp9Q](https://pan.baidu.com/s/1fPX9xvLKJ9k_hphsKQTp9Q)  密码: 19w9
 
+<br/>
+
+### Homework 3
+新增UMG主菜单 调整了UI按键 & 得分显示
+
+<br/>
+
+apk包和演示视频：[https://pan.baidu.com/s/1dYKg13BpgLwoRMMDF_5pNQ](https://pan.baidu.com/s/1dYKg13BpgLwoRMMDF_5pNQ)  密码: 8nmr
 
 <br/>
 
