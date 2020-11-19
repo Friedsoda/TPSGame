@@ -30,3 +30,12 @@ apk包和演示视频：[https://pan.baidu.com/s/1dYKg13BpgLwoRMMDF_5pNQ](https:
 
 <br/>
 
+### Homework 4
+调整UI 新增近战切换
+动画的初步实现
+
+<br/>
+
+apk包和演示视频：[https://pan.baidu.com/s/1ugrgLBDSxWVSa_54EpCxnQ](https://pan.baidu.com/s/1ugrgLBDSxWVSa_54EpCxnQ)  密码: 7s9u
+
+<br/>
